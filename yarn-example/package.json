@@ -1,0 +1,11 @@
+{
+  "name": "yarn-example",
+  "version": "1.0.0",
+  "description": "A Yarn example",
+  "main": "index.js",
+  "author": "alaskaa",
+  "license": "MIT",
+  "dependencies": {
+    "dogefy": "^0.1.4"
+  }
+}
